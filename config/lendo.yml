@@ -1,0 +1,11 @@
+lendo:
+  members:
+    - tetsuobe
+    - ulff
+    - matigda
+
+  channel:
+      "#gda"
+
+  exclude_titles:
+    - "wip"
